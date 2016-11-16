@@ -7,9 +7,6 @@ brew mas
 tap caskroom/cask
 cask pibakery
 
-tap homebrew/boneyard
-brew celt
-
 tap homebrew/core
 brew autoconf
 brew automake
@@ -100,7 +97,6 @@ appstore 409183694 Keynote (7.0.5)
 appstore 539883307 LINE (4.10.0)
 appstore 634159523 MainStage 3 (3.2.4)
 appstore 409203825 Numbers (4.0.5)
-appstore 484446353 OptimPrefs (1.1)
 appstore 409201541 Pages (6.0.5)
 appstore 425424353 The Unarchiver (3.11.1)
 appstore 944654199 Tree 2 (2.0.3)
